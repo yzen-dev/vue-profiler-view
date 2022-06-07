@@ -1,4 +1,5 @@
 # vue-profiler-view
+Viewer for https://github.com/yzen-dev/laravel-profiler
 
 ```js
 import { ProfilerService } from './profiler/ProfilerService.js';
