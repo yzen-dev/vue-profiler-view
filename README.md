@@ -37,3 +37,6 @@ function stopDebugMode() {
 ```
 
 Run `showDebugBar()` in browser console
+
+![image](https://user-images.githubusercontent.com/24630195/172348111-940201c7-5aaf-4c8d-926e-ce46be5e3400.png)
+
