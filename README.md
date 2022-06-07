@@ -35,3 +35,5 @@ function stopDebugMode() {
     });
 }
 ```
+
+Run `showDebugBar()` in browser console
